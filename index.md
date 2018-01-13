@@ -1,2 +1,2 @@
 # Mikeio
-[[Tutorial.md]]
+[Tutorial](..Tutorial/Tutorial.md)
