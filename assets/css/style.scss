@@ -4,8 +4,11 @@
 @import "{{ site.theme }}";
 @import url("https://fonts.googleapis.com/css2?family=Gudea&display=swap");
 
-.main-content {
+body {
     font-family: "Gudea";
+}
+.main-content {
+    // h1
 }
 .view {
     display: none;
