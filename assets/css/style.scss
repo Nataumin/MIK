@@ -1,15 +1,17 @@
----
----
-
 @import "{{ site.theme }}";
 @import url("https://fonts.googleapis.com/css2?family=Gudea&display=swap");
 
 body {
     font-family: "Gudea";
+    font-size: 1em;
+
 }
-.main-content {
-    // h1
-}
+// .main-content {
+
+// }
 .view {
+    display: none;
+}
+footer {
     display: none;
 }
