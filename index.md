@@ -1,2 +1,2 @@
-# Mikeio
+MIK
 [Tutorial](Tutorial/Tutorial.md)
